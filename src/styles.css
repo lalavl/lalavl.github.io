@@ -144,6 +144,10 @@ p {
     align-items: center;
 }
 
+.the-long-road-picture {
+    width: 500px;
+    border-radius: 150px;
+}
 .project-card {
     width: 250px;
     height: 500px;
